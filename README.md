@@ -1,6 +1,6 @@
 _**Hey! Seja Bem-vindo**_
 
-Me chamo Rafa 🦊
+_Me chamo Rafa 🦊_
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
